@@ -78,7 +78,7 @@ var myPlaylist = [
   duration:'',
         buy:'http://mp3-mandarin.blogspot.co.id/2016/01/deric-wan-wei-wo-shou-hou.html',
         cover:'http://2.bp.blogspot.com/-qjN38QfpWQ4/VmLyqgwBgFI/AAAAAAAADyI/XgnHzavnLDA/s320/Deric%2BWan.jpg'
-  	
+  	},
  {
         mp3:'https://dl-web.dropbox.com/s/lcfrmjk2m9x7f5q/Wo%20ben%20shan%20liang.mp3?dl=0',
   title:'Wo ben shan liang',
