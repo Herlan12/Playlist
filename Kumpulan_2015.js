@@ -10,7 +10,7 @@ var myPlaylist = [
         cover:'http://3.bp.blogspot.com/-QMazZd8dFR4/VqOyGoCXjgI/AAAAAAAAELw/LSXSNkSPRF0/s1600/Shi%2BBu%2BShi%2Bwo%2Bdui%2Bni%2Bbu%2Bgou%2Bhao.jpg'
       },
 {
-        mp3:'https://dl-web.dropbox.com/s/19udzotb10u6rpa/Tang%20gu%20-%20Wo%20zai%20qian%20shi%20yue%20le%20ni.mp3?dl=0',
+        mp3:'https://docs.google.com/uc?export=download&id=0ByaqFsu8M692Mk1meXJWUmViOXM',
   title:'Wo zai qian shi yue le ni',
         artist:'Tang gu',
         rating:4,
@@ -19,7 +19,7 @@ var myPlaylist = [
         cover:'http://3.bp.blogspot.com/-qaPpiRyAMiQ/VqOvmgHnAKI/AAAAAAAAELY/G6LlVUwxrus/s1600/Wo%2Bzai%2Bqian%2Bshi%2Byue%2Ble%2Bni.jpg'
       },
 {
-        mp3:'https://dl-web.dropbox.com/s/lv098k4vc8zgpoh/Li%20Jian%20-%20Jia%20ru%20ai%20you%20tian%20yi.mp3?dl=0',
+        mp3:'https://docs.google.com/uc?export=download&id=0ByaqFsu8M692Q0ItTktPUnFOZ2c',
   title:'Jia ru ai you tian yi',
         artist:'Li Jian ',
         rating:4,
@@ -28,7 +28,7 @@ var myPlaylist = [
         cover:'http://2.bp.blogspot.com/-EYkLK0Qsv-4/VqOuIyx9YHI/AAAAAAAAELM/Uvy-KC8MyCA/s1600/Jia%2Bru%2Bai%2Byou%2Btian%2Byi.jpg'
       },
 {
-        mp3:'https://dl-web.dropbox.com/s/9vdfwjaqqbniw9i/Chen%20Mei%20xi%20%20-%20Wang%20le%20shang%20tong.mp3?dl=0',
+        mp3:'https://docs.google.com/uc?export=download&id=0ByaqFsu8M692ZmNzUFZ4bWdzRUk',
   title:'Wang le shang tong',
         artist:'Chen Mei xi',
         rating:4,
@@ -37,7 +37,7 @@ var myPlaylist = [
         cover:'http://3.bp.blogspot.com/-p3Mmi-U-Ywk/VqJHB6kX9sI/AAAAAAAAEKQ/s6PhL-UW9R8/s1600/xhen%2Bmei%2Bxi.jpg'
       },
 {
-        mp3:'https://dl-web.dropbox.com/s/93anycfkcm2a0ht/Xiang%20xiang%20-%20Ya%20xian%20de%20mofa.mp3?dl=0',
+        mp3:'https://docs.google.com/uc?export=download&id=0ByaqFsu8M692aU5GcWg1QWItR0E',
   title:'Ya xian de mofa',
         artist:'Xiang xiang',
         rating:4,
@@ -47,7 +47,7 @@ var myPlaylist = [
   
     },
 {
-        mp3:'https://dl-web.dropbox.com/s/idn2clez5xrlrtk/Guo%20Jin%20tong%20-%20Yu%20Zai%20Fei.mp3?dl=0',
+        mp3:'https://docs.google.com/uc?export=download&id=0ByaqFsu8M692Q1ZvZUxyYXFVakE',
   title:'Yu Zai Fei',
         artist:'Guo Jin tong',
         rating:4,
