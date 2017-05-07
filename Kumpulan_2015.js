@@ -1,7 +1,7 @@
 
 var myPlaylist = [
 {
-        mp3:'https://dl-web.dropbox.com/s/3hjzi05wctqd9rj/Tang%20gu%20-%20Shi%20Bu%20Shi%20wo%20dui%20ni%20bu%20gou%20hao.mp3?dl=0',
+        mp3:'https://docs.google.com/uc?export=download&id=0ByaqFsu8M692bldPZi10RVJoUjg',
   title:'Shi Bu Shi wo dui ni bu gou hao',
         artist:'Tang gu',
         rating:4,
